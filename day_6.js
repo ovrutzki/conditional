@@ -168,9 +168,7 @@ function calculator(num1, num2, operand){
         return `${c}, ${a}, ${b}`
     }
     }
-
-    
-    console.log(sortNum(5, 345, 67));
+    console.log(sortNum(5, 500, 67));
 
     // 14
     function saftyRules(crewStatus, computerStatusCode, shuttleSpeed){
