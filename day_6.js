@@ -169,11 +169,12 @@ function calculator(num1, num2, operand){
     }
     }
 
+    
     console.log(sortNum(5, 345, 67));
 
     // 14
     function saftyRules(crewStatus, computerStatusCode, shuttleSpeed){
-        
+
     }
 
 
